@@ -1,16 +1,26 @@
-## Hi there 👋
+#Hi there are
+Welcome to my profile!
 
-<!--
-**jeffersoncace0-ctrl/jeffersoncace0-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you to know me:
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning Python and building small projects to strengthen my logic and problem-solving skills.
+- 🎓 Business Administrator by profession and Industrial Engineering student.
+- 📜 Certified in ISO 9001 (Quality Management Systems) and ISO 14001 (Environmental Management Systems).
+- 🎯 Goal: Become a better developer step by step and build real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Collaboration
+ - 🧠 Open to learning, contributing, and improving through teamwork.
+
+# 💬 Ask Me About
+- Python basics  
+- Problem-solving logic  
+- Industrial Engineering topics
+
+### 🏷️ Nickname
+- You can call me *Jheff* 😎
+
+- ### ⚡ Fun Fact
+- I'm extroverted, I enjoy meeting new people, sharing ideas, and talking about growth and goals.
+
+
